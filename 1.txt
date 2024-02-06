@@ -1,0 +1,1 @@
+echo $result['fname'].' '.$result['lname'].' '.$result['pass'].' '.$result['conpass'].' '.$result['gender'].' '.$result['email'].' '.$result['phone'].' '.$result['address'].'<br>';
